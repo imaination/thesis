@@ -1,4 +1,4 @@
-# Master Thesis: Data Formulation Comparisons for Financial Time-series data for CNN
+# Master Thesis: Comparing Image-based Transformation Approaches for Financial Time-series Prediction
 
 
 # Referenced Code/Resources
