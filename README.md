@@ -6,4 +6,4 @@
 1. https://github.com/cmazzoni87/ComputerVisionRegression
 2. https://github.com/mfrdixon/ML_Finance_Codes
 
-Note: Data for configuring images and images are not uploaded due to memory constraints. 
+Note: Data in general (for configuring images, images, results) are not uploaded due to memory constraints. 
